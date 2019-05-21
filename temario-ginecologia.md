@@ -1,7 +1,7 @@
 ---
 title: Ginecología
 subtitle: Temas selectos
-date: 21-05-1992
+date: 21-05-2019
 ---
 
 # Generalidades
