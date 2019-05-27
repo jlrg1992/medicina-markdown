@@ -1,7 +1,7 @@
 ---
 title: Conociendo la terminal - Parte II
 subtitle: touch, \>, \>\>, echo, cat
-date: 21-05-2019
+date: 23-05-2019
 ---
 
 Ahora es hora de comenzar a manipular algunos archivos de texto.
