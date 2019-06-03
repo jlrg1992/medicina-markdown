@@ -24,7 +24,7 @@ date: 20-05-2019
 + Julio 2015 - Octubre 2015 --> Corporativo Bajío Comunicaciones \| Noticiero Radar News  
 	Cargo ocupado: Community Manager/WebMaster   
 	*Tareas realizadas:*   
-	+ Community Manager: Facebook (https://www.facebook.com/radarnews1075) y Twiter (https://twitter.com/RadarNews1075)
+	+ Community Manager: Facebook y Twiter
 	+ Webmaster: http://radarnews.mx/
 
 + Enero 2013 - 2015 --> Comisión de Comunicación de la Diócesis de Querétaro   
