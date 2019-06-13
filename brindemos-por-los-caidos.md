@@ -20,7 +20,7 @@ Por esas dulces sonrisas:
 brindemos por los caídos.
 
 Por esa primera vista  
-que ha cualquier noble nacido,  
+que a cualquier, noble nacido,  
 le hace sentir pobreza:  
 brindemos por por los caídos.
 

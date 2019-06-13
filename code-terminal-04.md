@@ -24,7 +24,7 @@ ls
 
 Como se puede ver, `mv` acepta dos comandos. El primero es el nombre del archivo que queremos **m**o**v**er y el segundo es la ubicación a la que queremos moverlo.
 
-Pero `mv`también tiene otro uso: renombrar archivos. Cuando este comando no encuentra la ubicación dada en el segundo parámetro, entiende que el segundo parámetro es el nuevo nombre.
+Pero `mv` también tiene otro uso: renombrar archivos. Cuando este comando no encuentra la ubicación dada en el segundo parámetro, entiende que el segundo parámetro es el nuevo nombre.
 
 ```
 mv script.sh pagina.sh
