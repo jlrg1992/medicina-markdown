@@ -1,12 +1,12 @@
 ---
 title: Ginecología
 subtitle: Temas selectos
-date: 21-05-1992
+date: 21-05-2019
 ---
 
 # Generalidades
 
-1. [Infecciones de transmisión sexual](med-gine-infecciones_transmision_sexual_.html)
+1. [Infecciones de transmisión sexual](\#)
 2. [Evaluación de víctimas de violencia sexual](\#)
 3. [Métodos de planificación familiar](\#)
 4. [Fisiología de la Reproducción](\#)
