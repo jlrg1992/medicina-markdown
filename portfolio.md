@@ -1,8 +1,12 @@
 ---
 title: Portafolio
-subtitle: Un muestrario de cosas que puedo hacer
+subtitle: Un muestrario de cosas que he hecho
 date: Última actualización 07-06-2019
 ---
+
+## Tradi-life
+
+Una applicación web en la que se puede ver un mapa con la ubicación de los diferentes lugares dondes hay Misa Tridentina y sus horarios. Para ello se utilizó la librería [Leaflet](https://leafletjs.com) y [Framework7](https://framework7.io) para manejo del mapa y la apriencia, respectivamente. [Ver aquí](https://jlrg1992.github.io/tradi-life/).
 
 ## Ping-Pong
 
