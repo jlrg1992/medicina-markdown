@@ -8,11 +8,17 @@ date: 20-05-2019
 
 ## Estudios
 
-+ 2013 --> Técnico en Urgencias Médicas
-	Querétaro, Méx.	ENLACE MÉDICO ASISTENCIA
++ 2013 --> Técnico en Urgencias Médicas  
+	Santiago de Querétaro, Qro. Méx.  
+    ENLACE MÉDICO ASISTENCIA
 
-+ 2012 - presente --> Estudiante de Medicina
-	 Querétaro, Méx. UNIVERSIDAD ANÁHUAC
++ 2012 - presente --> Estudiante de Medicina  
+    Santiago de Querétaro, Qro. Méx.  
+    UNIVERSIDAD ANÁHUAC
+
++ 2019 - presente --> Médico Interno de Pregado  
+    Cadereyta de los Montes, Qro. Méx.  
+    Hospital Genral de Cadereyta
 
 ## Idiomas
 
