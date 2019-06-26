@@ -1,7 +1,7 @@
 ---
 title: Lecturas de 2019
 subtitle: Libros leídos este año.
-date: 15-06-19
+date: 25-06-19
 ---
 
 1. El Monje: una historia de amor verdadero *por Thich Nhat Hanh*  

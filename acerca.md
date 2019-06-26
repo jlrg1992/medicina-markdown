@@ -1,7 +1,7 @@
 ---
 title: Acerca de
-subtitle: CURRICULUM
-date: 20-05-2019
+subtitle: Un recorrido de vida
+date: 24-06-2019
 ---
 # Jorge Luis Rangel García
 **mail\:** jlrg1992@gmail.com
