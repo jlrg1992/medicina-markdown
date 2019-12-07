@@ -27,6 +27,9 @@ date: 24-06-2019
 
 ## Experiencia Laboral
 
++ Julio 2019 - Presente --> Hospital General Cadereyta
+    Cargo ocupado: Médico Interno de Pregrado
+
 + Julio 2015 - Octubre 2015 --> Corporativo Bajío Comunicaciones \| Noticiero Radar News  
 	Cargo ocupado: Community Manager/WebMaster   
 	*Tareas realizadas:*   
