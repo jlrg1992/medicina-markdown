@@ -16,7 +16,7 @@ date: 24-06-2019
     Santiago de Querétaro, Qro. Méx.  
     UNIVERSIDAD ANÁHUAC
 
-+ 2019 - presente --> Médico Interno de Pregado  
++ Junio 2019 - presente --> Médico Interno de Pregado  
     Cadereyta de los Montes, Qro. Méx.  
     Hospital Genral de Cadereyta
 
@@ -55,6 +55,7 @@ date: 24-06-2019
 
 ## Cursos y capacitaciones
 
++ Programa de Capacitación en Infección por SARS-CoV-2 en Atención Primaria de Salud (Abril 2020)
 + Asistente en la XXII Reunión de la Sociedad Médica del Hospital General de México.
 + Asistente del I Congreso Estudiantil de Genómica y Proteómica 
 + Asistente en la XXI Congreso Bienal de Diálisis.
