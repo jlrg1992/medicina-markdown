@@ -56,6 +56,7 @@ date: 24-06-2019
 ## Cursos y capacitaciones
 
 + Programa de Capacitación en Infección por SARS-CoV-2 en Atención Primaria de Salud (Abril 2020)
++ Salud Mental druante la Pandemia COVID-19 (Abril 2020)
 + Asistente en la XXII Reunión de la Sociedad Médica del Hospital General de México.
 + Asistente del I Congreso Estudiantil de Genómica y Proteómica 
 + Asistente en la XXI Congreso Bienal de Diálisis.
