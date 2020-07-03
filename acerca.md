@@ -3,8 +3,7 @@ title: Acerca de
 subtitle: Un recorrido de vida
 date: 24-06-2019
 ---
-# Jorge Luis Rangel García
-**mail\:** jlrg1992@gmail.com
+### **mail\:** jlrg1992@gmail.com
 
 ## Estudios
 
