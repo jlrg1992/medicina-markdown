@@ -11,11 +11,11 @@ date: 24-06-2019
 	Santiago de Querétaro, Qro. Méx.  
     ENLACE MÉDICO ASISTENCIA
 
-+ 2012 - presente --> Estudiante de Medicina  
++ 2012 - 2020 --> Estudiante de Medicina  
     Santiago de Querétaro, Qro. Méx.  
     UNIVERSIDAD ANÁHUAC
 
-+ Junio 2019 - presente --> Médico Interno de Pregado  
++ Julio 2019 - Junio 2020 --> Médico Interno de Pregado  
     Cadereyta de los Montes, Qro. Méx.  
     Hospital Genral de Cadereyta
 
@@ -26,7 +26,7 @@ date: 24-06-2019
 
 ## Experiencia Laboral
 
-+ Julio 2019 - Presente --> Hospital General Cadereyta  
++ Julio 2019 - Junio 2020 --> Hospital General Cadereyta  
     Cargo ocupado: Médico Interno de Pregrado
 
 + Julio 2015 - Octubre 2015 --> Corporativo Bajío Comunicaciones \| Noticiero Radar News  
