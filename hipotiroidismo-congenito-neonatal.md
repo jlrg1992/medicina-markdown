@@ -57,7 +57,7 @@ Para la toma de perfil tiroideo se debe tomar una toma de muestra venosa de 4ml 
 
 USG tiroidea para identificar disgenesias.
 
-Evaluar edad ósea mediante radiografía AP de rodilla. La edad ósea retrasada es un dato sugestivo de hipotiroidismo congénito con un retraso proporcional al grado de deficiencia de hormona tioirdea. El crecimiento se encuentra más atrasado en los casos de agenesia tiroidea y menos, en casos de tioides ectópica o hipotiroidismo transitorio.
+Evaluar edad ósea mediante radiografía AP de rodilla. La edad ósea retrasada es un dato sugestivo de hipotiroidismo congénito con un retraso proporcional al grado de deficiencia de hormona tiroidea. El crecimiento se encuentra más atrasado en los casos de agenesia tiroidea y menos, en casos de tiroides ectópica o hipotiroidismo transitorio.
 
 En sospecha de tejido ectópico tiroideo se puede realizar gammagrafía de tiroides con tecnecio-99m. Si no se observa captación por la tiroides pero alteración en USG, se debe sospechar de un defecto en el receptor de TSH.
 
@@ -77,7 +77,7 @@ El tratamiento con levotiroxina se inicia con una dosis de 10 - 15 microgr/kg/d�
 
 Se recomienda valoración del retiro de tratamiento a los 3 años, en caso de no tener una etiología clara.
 
-De acuerdo a la GPC ante los siguientes datos de alarma se debe referir al segundo nivel:
+De acuerdo a la Guí de Práctica Clínica (GPC) ante los siguientes datos de alarma se debe referir al segundo nivel:
 
 1. Cabeza constantemente hacia atrás. Tono muscular bajo.  
 1. A los 3 meses: persistencia de manos empuñadas, atrapamiento de pulgar, antebrazos en pronación.  
