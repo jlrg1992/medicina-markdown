@@ -1,6 +1,6 @@
 ---
 title: Alma perdida
-subtitle: Crónicas del Centro de Salud
+subtitle: Crónicas del Servicio Social
 date: 21-08-2020
 ---
 
