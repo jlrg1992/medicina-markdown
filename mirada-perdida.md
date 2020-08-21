@@ -18,4 +18,4 @@ Le pedí que me esperara en el consultorio mientras iba por la receta y el papel
 
 Le di su receta, le expliqué los medicamentos que debía tomar, unos ejercicios para su dolencia. "Eso es todo señora. La veo en 15 días." Se puso de pie; tomó su receta y, justo antes de salir por la puerta me agradeció.
 
-Sólo pude ver como la perdía de vista al llegar a la botica para pedir su medicamento. Con su paso cansino y su mirada perdida.
+Sólo pude ver como la perdía de vista al llegar a la botica para pedir su medicamento. Con su paso cansino y su mirada. Perdida.
