@@ -10,3 +10,4 @@ date: 21-08-2020
 4. El Conde de Monte Cristo *por Alejandro Dumas*  
 5. Memorias de una Geisha *por Arthur Golden*  
 6. Máximas y Pensamientos *por Napoleón Bonaparte*. 
+7. [Onychomycosis in the 21st Century: An Update on Diagnosis, Epidemiology, and Treatment *por Aditya K. Gupta et al.*](https://pubmed.ncbi.nlm.nih.gov/28639462/)
