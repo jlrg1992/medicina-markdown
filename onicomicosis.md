@@ -3,6 +3,7 @@ title: Onicomicosis
 subtitle: Dermatología
 date: 26-08-2020
 ---
+## Introducción
 
 La onicomicosis es una infección en las uñas causada por hongos. Se pueden identificar tres grupos Dermatofitos, mohos no dermatofitos y levaduras. Siendo los dermatofitos, el principal agente causal. Los dos grupos restantes son generalmente oportunistas al presentarse alguna otra enermedad previa de la uña o secundario a traumatismos. Así mismo puede estar causada por más de un organismo.
 
@@ -10,7 +11,21 @@ Es la principal causa de enfermedad de la uña en países desarrollados llegando
 
 Afectan principalmente los pies, sobre todo el primer dedo. Sin embargo, cuando el agente causal es del género Candida, afecta preferentemente las uñas de las manos y el pliegue ungueal.
 
+En los pacientes inmunodeprimidos se puede encontrar onixis secudaria a patógenos normalmente considerados no patógenos. Éstos están asociados a alta mortalidad por infección diseminada. Los agentes más relacionados son los de la especie *Fusarium*.
 
+## Agentes
+
+### Dermatofitos
+
+Éste término es usado para describir a los mohos del género *Microsporum*, *Trichophyton* y *Epidermophyton*. Son hongos filamentosos cuyas hifas penetran el estrato córneo de las uñas a través de proteasas queratinolíticas. Son responsables del 80-90% de las onicomicosis. El dermatofito más encontrado es *T. rubrum*.
+
+### Levaduras
+
+Son responsables del 5 -17% de las onicomicosis. La especie más aislada es *Candida albicans*. Forma parte de la microbiota intestinal habitual y no suele encontrarse de manera colonizante en la piel.
+
+### Mohos no dermatofitos
+
+Se dividen en hialinos y dematiáceos. Cuando se encuentran asociados a dermatofitos y levaduras, se les considera agentes contaminantes. Al no poseer queratinasas, varios autores no les consideran como patógenos primarios; a excepción de *Scytali-dium dimidiatum* el cual posee queratinasas y *Fusarium solani* que en menor capacidad puede degradar la queratina.
 
 ## Bibliografía
 
